@@ -1,2 +1,2 @@
-# eval_Spec
+# EvalSpec
 Python code for an astronomical spectrograph performance validation
